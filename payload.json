@@ -1,0 +1,10 @@
+{
+  "model": "phi3:mini",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Explain this loan agreement term"
+    }
+  ],
+  "stream": false
+}
